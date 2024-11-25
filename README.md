@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Mockito-546E7A?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/WebSocket-00B4D8?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -29,17 +34,13 @@
 
 Aquí algunos de mis proyectos destacados:
 
-1. **[Aplicación Bancaria](https://github.com/UlisesGS/native-back)**  
+1. **[Aplicación Bancaria](https://github.com/UlisesGS/Banco-Nativo)**  
    _Una solución para transferencias, microcréditos y donaciones._  
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-2. **[Gestor de Proyectos UNLP](https://github.com/UlisesGS/project-management)**  
-   _Sistema para gestionar proyectos de investigación, investigadores y subsidios._  
+2. **[Secretario Virtual](https://github.com/UlisesGS/SecretarioVirtual)**  
+   _Sistema para automatizar la gestion de turnos de los profesionales._  
    ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-3. **[Sistema Meteorológico](https://github.com/UlisesGS/weather-system)**  
-   _Registro y análisis de temperaturas para estaciones meteorológicas._  
-   ![Pascal](https://img.shields.io/badge/Pascal-0095D5?style=flat-square&logo=&logoColor=white)
 
 ---
 
@@ -52,6 +53,6 @@ Haz clic aquí para descargar mi CV:
 
 ### Contact Me 📬
 
-- **LinkedIn**: [Uliss Gadea](https://www.linkedin.com/in/uliss-gadea)  
-- **Email**: [ulissgadea@example.com](mailto:ulissgadea@example.com)  
+- **LinkedIn**: [Uliss Gadea](https://www.linkedin.com/in/ulises-gadea/)  
+- **Email**: [ulissgadea@example.com](mailto:ulisesgadea28@gmail.com)  
 
