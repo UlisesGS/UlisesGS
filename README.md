@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Mockito-546E7A?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mockito"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/WebSocket-00B4D8?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -53,6 +54,6 @@ Haz clic aquí para descargar mi CV:
 
 ### Contact Me 📬
 
-- **LinkedIn**: [Uliss Gadea](https://www.linkedin.com/in/ulises-gadea/)  
-- **Email**: [ulissgadea@example.com](mailto:ulisesgadea28@gmail.com)  
+- **LinkedIn**: [Ulises Gadea](https://www.linkedin.com/in/ulises-gadea/)  
+- **Email**: [ulisesgadea28@gmail.com](mailto:ulisesgadea28@gmail.com)  
 
