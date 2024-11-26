@@ -51,7 +51,7 @@ Aquí algunos de mis proyectos destacados:
 ### Download My CV 📄
 
 Haz clic aquí para descargar mi CV:  
-**[Descargar CV](https://www.example.com/cv-uliss-gadea.pdf)**
+**[Descargar CV](https://drive.google.com/file/d/1X0uCGSgXovqTPy2FKdCZiql--augk8zN/view?usp=sharing)**
 
 ---
 
