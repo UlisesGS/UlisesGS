@@ -18,7 +18,7 @@
 
 - 🌱 Estoy aprendiendo: Integraciones avanzadas de API y arquitectura de microservicios.
 - 🚀 Me gusta trabajar en proyectos colaborativos y resolver problemas complejos con tecnología.
-- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/uliss-gadea).
+- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ulises-gadea/).
 
 ---
 
