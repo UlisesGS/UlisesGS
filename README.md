@@ -1,6 +1,7 @@
-## Hi there 👋
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Backend Developer
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Licenciatura+en+Sistemas+;Programador+autodidacta;Trabajo+en+equipo"></a>
+
 ¡Hola! Soy **Ulises Gadea**, un desarrollador apasionado con experiencia en **Java**, **Spring Boot**, **React**, **Angular** y más. Actualmente estoy estudiando la Licenciatura en Sistemas en la Facultad de Informática de La Plata, y me especializo en el desarrollo de aplicaciones web modernas y soluciones basadas en microservicios.
 
 - 🌱 Estoy aprendiendo: Integraciones avanzadas de API y arquitectura de microservicios.
