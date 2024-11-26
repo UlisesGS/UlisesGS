@@ -2,7 +2,7 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Licenciatura+en+Sistemas+;Programador+autodidacta;Trabajo+en+equipo"></a>
 
-![UlisesG github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
+![UlisesG github stats](https://github-readme-stats.vercel.app/api?UlisesGS=ChungZH&theme=gruvbox&show_icons=true)
 
 ¡Hola! Soy **Ulises Gadea**, un desarrollador apasionado con experiencia en **Java**, **Spring Boot**, **React**, **Angular** y más. Actualmente estoy estudiando la Licenciatura en Sistemas en la Facultad de Informática de La Plata, y me especializo en el desarrollo de aplicaciones web modernas y soluciones basadas en microservicios.
 
