@@ -1,4 +1,4 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Backend Developer!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Backend Developer!
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Licenciatura+en+Sistemas+;Programador+autodidacta;Trabajo+en+equipo"></a>
 
@@ -38,7 +38,7 @@
 
 ### Featured Projects 💻
 
-Aquí algunos de mis proyectos destacados:
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Aquí algunos de mis proyectos destacados:
 
 1. **[Aplicación Bancaria](https://github.com/UlisesGS/Banco-Nativo)**  
    _Una solución para transferencias, microcréditos y donaciones._  
@@ -57,7 +57,7 @@ Haz clic aquí para descargar mi CV:
 
 ---
 
-### Contact Me 📬
+### Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 - **LinkedIn**: [Ulises Gadea](https://www.linkedin.com/in/ulises-gadea/)  
 - **Email**: [ulisesgadea28@gmail.com](mailto:ulisesgadea28@gmail.com)  
