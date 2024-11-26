@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-left: 20px;" />
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg" style="margin: 100px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Licenciatura+en+Sistemas+;Programador+autodidacta;Trabajo+en+equipo">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Licenciatura+en+Sistemas+;Programador+autodidacta;Trabajo+en+equipo" style="margin: 100px;"/>
 </a>
 
 ¡Hola! Soy **Ulises Gadea**, un desarrollador apasionado con experiencia en **Java**, **Spring Boot**, **React**, **Angular** y más. Actualmente estoy estudiando la Licenciatura en Sistemas en la Facultad de Informática de La Plata, y me especializo en el desarrollo de aplicaciones web modernas y soluciones basadas en microservicios.
