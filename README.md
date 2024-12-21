@@ -72,5 +72,6 @@ Haz clic aquí para descargar mi CV:
 ### Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 - **LinkedIn**: [Ulises Gadea](https://www.linkedin.com/in/ulises-gadea/)  
-- **Email**: [ulisesgadea28@gmail.com](mailto:ulisesgadea28@gmail.com)  
+- **Email**: [ulisesgadea28@gmail.com](mailto:ulisesgadea28@gmail.com)
+- **Telefono**: [+5491167681574](mailto:+5491167681574)  
 
