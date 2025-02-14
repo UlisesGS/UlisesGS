@@ -56,7 +56,17 @@
    _Una solución para transferencias, microcréditos y donaciones._  
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-2. **[Secretario Virtual](https://github.com/UlisesGS/SecretarioVirtual)**  
+2. **[Aplicación de Citas](https://github.com/UlisesGS/Mindup)**   
+_Una opción para encontrar salud mental con llamados de emergencia._  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white)  
+![WebSocket](https://img.shields.io/badge/WebSocket-007ACC?style=flat-square&logo=websocket&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+
+3. **[Secretario Virtual](https://github.com/UlisesGS/SecretarioVirtual)**  
    _Sistema para automatizar la gestion de turnos de los profesionales._  
    ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
