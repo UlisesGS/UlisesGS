@@ -14,7 +14,7 @@
 </table>
 
 
-¡Hola! Soy **Ulises Gadea**, un desarrollador apasionado con experiencia en **Java**, **Spring Boot**, **React**, **Angular** y más. Actualmente estoy estudiando la Licenciatura en Sistemas en la Facultad de Informática de La Plata, y me especializo en el desarrollo de aplicaciones web modernas y soluciones basadas en microservicios.
+¡Hola! Soy **Ulises Gadea**, un desarrollador apasionado con experiencia en **Java**, **Spring Boot**, **React** y más. Actualmente estoy estudiando la Licenciatura en Sistemas en la Facultad de Informática de La Plata, y me especializo en el desarrollo de aplicaciones web modernas y soluciones basadas en microservicios.
 
 - 🌱 Estoy aprendiendo: Integraciones avanzadas de API y arquitectura de microservicios.
 - 🚀 Me gusta trabajar en proyectos colaborativos y resolver problemas complejos con tecnología.
@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/WebSocket-00B4D8?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
